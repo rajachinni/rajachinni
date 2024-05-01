@@ -1,9 +1,7 @@
 
-<h1 align="center">Hi This is  *Raja chinni* 👋 </h1>
+<h1 align="center">Hi This is  Raja chinni 👋 </h1>
 <h3 align="center"> Senior Software Engineer | Backend Developer | Java And Springboot </h3>
-
-
-
+<br>
 
 - 🔭 excelled in backend development using java and Springboot 
 - 🌱 working as a senior software engineer.
